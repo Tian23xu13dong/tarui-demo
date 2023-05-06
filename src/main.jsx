@@ -5,7 +5,7 @@ import ReactDOM from 'react-dom/client'
 // import {router} from "./routes/index.jsx";
 
 import './index.less'
-import './assets/icon_font/iconfont.js'
+import '//at.alicdn.com/t/c/font_4052113_fihvvqxz2j.js'
 import App from "./App.jsx";
 
 

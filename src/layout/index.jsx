@@ -1,7 +1,7 @@
 // import Header from './Header.jsx'
 import SvgIcon from "/@/components/SvgIcon/index.jsx";
 // import {Link, Outlet} from "react-router-dom";
-import Calendar from "/@/components/Calendar/index.jsx";
+import Calendar from "../components/Calendar/index.jsx";
 
 function Layout() {
   return (
