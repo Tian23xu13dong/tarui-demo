@@ -2,6 +2,7 @@
 import SvgIcon from "/@/components/SvgIcon/index.jsx";
 // import {Link, Outlet} from "react-router-dom";
 import Calendar from "../components/Calendar/index.jsx";
+import WorkProgress from "../routes/WorkProgress/index.jsx";
 
 function Layout() {
   return (
@@ -37,11 +38,12 @@ function Layout() {
             </ul>
           </nav>
         </div>
-        <div className="flex-1 h-full p-2">
+        <div className="flex-1 h-full p-2 text-gray-700">
           {/* Main */}
           {/*<Outlet/>*/}
+          <WorkProgress />
 
-          <Calendar />
+          {/*<Calendar />*/}
         </div>
       </div>
     </div>

@@ -35,7 +35,7 @@ ItemDay.propTypes = {
 const Calendar = (props) => {
   window.moment = moment
 
-  const {year: initYear, month: initMonth, date: initDate, fistIndex = 0} = props;
+  const {fistIndex = 0, className} = props;
   const [year, setYear] = useState(null)
   const [month, setMonth] = useState(null)
   const [today, setToday] = useState(null)
@@ -101,7 +101,7 @@ const Calendar = (props) => {
   }
 
   return <>
-    <div className="Calendar w-fit text-gray-700" key={props.key}>
+    <div className={"Calendar w-fit text-gray-700 " + className.toString()} key={props.key}>
       <div className={"text-gray-700  flex items-center justify-between"}>
         <SvgIcon name={"houtui"} onClick={onPreMonth}/>
         <span>{year}年 {month}月</span>
@@ -135,6 +135,7 @@ Calendar.propTypes = {
   fistIndex: PropTypes.number, // 暂时只支持 0, 1 0 从周日开始推算， 1从周一开始推算
   item: PropTypes.node,
   key: PropTypes.string,
+  className: PropTypes.string,
 }
 
 export default Calendar
