@@ -19,8 +19,9 @@ const ItemDay = (props) => {
   return (
     <div className={[
       "inline-block text-center",
-      (year === item.year && month === item.month && today === item.day && " today bg-green-200 text-green-500"),
-      (month !== item.month && "text-gray-300")
+      [0, 6].includes(item.week) && "text-red-500",
+      (month !== item.month && "text-gray-300 text-opacity-60"),
+      (today === item.raw && "today bg-green-200 text-green-500"),
     ].join(" ")}>{item.day}</div>
   )
 }
@@ -45,7 +46,7 @@ const Calendar = (props) => {
   // 初始化日期信息和 头部信息
   useEffect(() => {
     const day = moment()
-    setToday(day.date())
+    setToday(day.format('yyyy-MM-DD'))
     setYear(day.year())
     setMonth((day.month() + 1))
     initWeekHeader(fistIndex)
