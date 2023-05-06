@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 import {getName, getVersion} from "@tauri-apps/api/app";
 import PropTypes from "prop-types";
-import SvgIcon from "@/components/SvgIcon/index.jsx";
+import SvgIcon from "/@/components/SvgIcon/index.jsx";
 
 import {getCurrent} from '@tauri-apps/api/window'
 
