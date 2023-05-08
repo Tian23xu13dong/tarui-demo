@@ -25,13 +25,26 @@
   fill: currentColor;
   overflow: hidden;
   display: inline-block;
-  &:hover{
+
+  &:hover {
     cursor: pointer;
   }
 }
 
+*::-webkit-scrollbar {
+@apply w-1 h-1;
 
-body{
+  &-track {
+  @apply bg-gray-200 dark:bg-gray-500;
+
+  }
+
+  &-thumb {
+  @apply bg-gray-500 dark:bg-gray-200;
+  }
+}
+
+body {
   padding: 0;
   margin: 0;
 }

@@ -1,0 +1,568 @@
+export default [{
+  "no": 1,
+  "projectName": "大参林",
+  "projectDesc": "统谈字段、代签公司tab页、用章跟进人管理",
+  "负责": "蔡少波",
+  "startTIme": "2022-10-31",
+  "endTime": "2022-11-02",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 2,
+  "projectName": "越秀",
+  "projectDesc": "接口对接联调，使用钉钉",
+  "负责": "袁林芳，张号杰",
+  "startTIme": "2022-11-02",
+  "endTime": "2022-11-03",
+  "status": "已放弃",
+  "jd": "100%"
+}, {
+  "no": 3,
+  "projectName": "运大门户",
+  "projectDesc": "运大中台页面复刻到门户",
+  "负责": "张号杰",
+  "startTIme": "2022-11-01",
+  "endTime": "2022-11-11",
+  "status": "待验证",
+  "jd": "100%"
+}, {
+  "no": 4,
+  "projectName": "运大门户",
+  "projectDesc": "托单数据页面复刻到门户",
+  "负责": "张号杰",
+  "startTIme": "2022-11-01",
+  "endTime": "2022-11-02",
+  "status": "已放弃",
+  "jd": "80%"
+}, {
+  "no": 5,
+  "projectName": "运大门户",
+  "projectDesc": "报关单页面首页",
+  "负责": "张号杰",
+  "startTIme": "2022-11-03",
+  "endTime": "2022-11-03",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 6,
+  "projectName": "运大门户",
+  "projectDesc": "报关单页面新建",
+  "负责": "张号杰",
+  "startTIme": "2022-11-04",
+  "endTime": "2022-11-04",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 7,
+  "projectName": "运大门户",
+  "projectDesc": "报关单页面新建表格按钮功能",
+  "负责": "张号杰",
+  "startTIme": "2022-11-05",
+  "endTime": "2022-11-05",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 8,
+  "projectName": "台新项目",
+  "projectDesc": "未说",
+  "负责": "卜锦润",
+  "startTIme": "2022-11-11",
+  "endTime": "2022-11-11",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 9,
+  "projectName": "大参林",
+  "projectDesc": "更改用章方式",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-09",
+  "endTime": "2022-11-09",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 10,
+  "projectName": null,
+  "projectDesc": null,
+  "负责": null,
+  "startTIme": null,
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 11,
+  "projectName": "运大门户",
+  "projectDesc": "联调1",
+  "负责": "张号杰",
+  "startTIme": "2022-11-09",
+  "endTime": "2022-11-09",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 12,
+  "projectName": "运大门户",
+  "projectDesc": "联调2",
+  "负责": "张号杰",
+  "startTIme": "2022-11-10",
+  "endTime": "2022-11-10",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 13,
+  "projectName": "运大门户",
+  "projectDesc": "交付",
+  "负责": "张号杰",
+  "startTIme": "2022-11-11",
+  "endTime": "2022-11-11",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 14,
+  "projectName": "大参林",
+  "projectDesc": "返利字段、返利必输提示",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-02",
+  "endTime": "2022-11-03",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 15,
+  "projectName": "大参林",
+  "projectDesc": "复制合同",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-02",
+  "endTime": "2022-11-04",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 16,
+  "projectName": "大参林",
+  "projectDesc": "未税供",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-07",
+  "endTime": "2022-11-07",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 17,
+  "projectName": "大参林",
+  "projectDesc": "关联合同",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-07",
+  "endTime": "2022-11-08",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 18,
+  "projectName": "大参林",
+  "projectDesc": "复制合同后，点击商品行页签跳转到 空白页",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-14",
+  "endTime": "2022-11-14",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 19,
+  "projectName": "大参林",
+  "projectDesc": "商品行-返利政策台账，如果录入一行数据后，再次录入另一行数据，指定供应商编码、返利/终端费(隐藏)字段会自动带出值",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-14",
+  "endTime": "2022-11-14",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 20,
+  "projectName": "datax-cloud",
+  "projectDesc": "数据集市-数据服务界面，滚动条问题",
+  "负责": "刘瑞锋",
+  "startTIme": "2022-11-15",
+  "endTime": "2022-11-15",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 21,
+  "projectName": "datax-cloud",
+  "projectDesc": "数据挖掘--模型管理--新建模型训练功能缺陷",
+  "负责": "刘瑞锋",
+  "startTIme": "2022-11-15",
+  "endTime": "2022-11-15",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 22,
+  "projectName": "datax-cloud",
+  "projectDesc": "数据挖掘--模型管理--模型上传功能缺陷",
+  "负责": "刘瑞锋",
+  "startTIme": "2022-11-15",
+  "endTime": "2022-11-15",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 23,
+  "projectName": "datax-cloud",
+  "projectDesc": "数据服务的api路径拼接错误",
+  "负责": "刘瑞锋",
+  "startTIme": "2022-11-15",
+  "endTime": "2022-11-15",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 24,
+  "projectName": "大参林",
+  "projectDesc": "1、修改代签公司中代签公司的Lov为基本信息中的签订主体的Lov。\n2、修改代签公司中乙方和丙方的Lov为相对方中的Lov，丙添加参数为代签公司uuid,乙方uuid,丙方uuid\n\n\n",
+  "负责": "陈仁武",
+  "startTIme": "2022-11-16",
+  "endTime": "2022-11-16",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 25,
+  "projectName": "大参林",
+  "projectDesc": "商品行字段调整，返利开始时间时间不允许在返利结束时间之后",
+  "负责": "蔡少波",
+  "startTIme": "2022-11-16",
+  "endTime": "2022-11-16",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 26,
+  "projectName": "运大门户",
+  "projectDesc": "合同协议号编辑的时候，首先复制项目号，但是允许跟项目号不同",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 27,
+  "projectName": "运大门户",
+  "projectDesc": "境外收货人查询时，分页展示数据",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 28,
+  "projectName": "运大门户",
+  "projectDesc": "审批中的报关单，编辑页面不要显示“新增、复制当前行等这些按钮",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 29,
+  "projectName": "运大门户",
+  "projectDesc": "通过复制按钮复制带有行数据的报关单，保存时未传行数据",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 30,
+  "projectName": "运大门户",
+  "projectDesc": "报关单项目行需要添加排序号",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 31,
+  "projectName": "运大门户",
+  "projectDesc": "复制其他状态得报关单，保存时新的报关单状态应该为新建",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 32,
+  "projectName": "运大门户",
+  "projectDesc": "前端sourceSystem值改为“XJ”",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 33,
+  "projectName": "运大门户",
+  "projectDesc": "报关单导入、导出、打印按钮不能用",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 34,
+  "projectName": "运大门户",
+  "projectDesc": "客户数据无法删除和查询",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 35,
+  "projectName": "运大门户",
+  "projectDesc": "去掉客户收件人地址菜单",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 36,
+  "projectName": "运大门户",
+  "projectDesc": "HCUX_MDM_CUSTOMER这个lov查询的时候，添加参数createdBy，取值userId",
+  "负责": "张号杰",
+  "startTIme": "2022-11-17",
+  "endTime": "2022-11-17",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 37,
+  "projectName": "台新项目",
+  "projectDesc": "验证旧版edge浏览器打印功能",
+  "负责": "卜锦润",
+  "startTIme": "2022-11-18",
+  "endTime": "2022-11-18",
+  "status": null,
+  "jd": null
+}, {
+  "no": 38,
+  "projectName": "台新项目",
+  "projectDesc": "有个案件审批的问题，案件编号2211150003初审审批流程有点奇怪，选择了无需人工测评，但是评估师还是必填项。\n另外已经填了鉴价金额和车300价格，但是通过或退回时仍提示需要输入这两个价格。\n",
+  "负责": "徐苗苗",
+  "startTIme": "2022-11-21",
+  "endTime": "2022-11-21",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 39,
+  "projectName": "台新项目",
+  "projectDesc": "初审审批页面，关于案件管理费修改后不显示的问题，好像又有了。\n例如2209270035，复审申复后到初审人员(LC17374徐雪莹)，初审页面无案件管理费。",
+  "负责": "徐苗苗",
+  "startTIme": "2022-11-21",
+  "endTime": "2022-11-21",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 40,
+  "projectName": "台新项目",
+  "projectDesc": "申复页面没有显示案件管理费的，现在是提交后到初审页面没有了，796030这是流程id，从我的待办进去可以看到",
+  "负责": "徐苗苗",
+  "startTIme": "2022-11-21",
+  "endTime": "2022-11-21",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 41,
+  "projectName": "聚合支付",
+  "projectDesc": null,
+  "负责": null,
+  "startTIme": null,
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 42,
+  "projectName": "聚合支付",
+  "projectDesc": "我刚把nginx.conf文件备份了一份nginx.conf.1123。我看前期改动的比较多，有个别系统短期不会使用。\n建议后面你删除下nginx.conf里的不需要的应用\necmall-web、davinci-ui、datax-ui，只需要保留这三个的前端。\n\n22上的nginx目录：/u02/nginx\necmall的前端部署地址：/u02/ecmall/html\n@黑塔 ",
+  "负责": "刘瑞锋",
+  "startTIme": null,
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 43,
+  "projectName": "越秀",
+  "projectDesc": "[OPEN20221124012]申请 hzero-front: 1.2.2 前端代码\n覆盖源码",
+  "负责": "张号杰",
+  "startTIme": "2022-11-24",
+  "endTime": "2022-11-24",
+  "status": "已转交",
+  "jd": 0
+}, {
+  "no": 44,
+  "projectName": "越秀",
+  "projectDesc": "1、新建、已拒绝、重填表单、流程待确认，可操作所有功能\n审批中、无效、有效、审批中（复核），可操作(只能操作)：主文档预览、下载；附件文档批量下载、附件全览、行文件预览、下载\n（有效有升级版本按钮，其他没有）",
+  "负责": "杨浩",
+  "startTIme": "2022-12-07",
+  "endTime": "2022-12-07",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 45,
+  "projectName": "越秀",
+  "projectDesc": "2、暂时不用做文件类型限制  所有的文件上传的限制都去掉",
+  "负责": "杨浩",
+  "startTIme": "2022-12-07",
+  "endTime": "2022-12-07",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 46,
+  "projectName": "越秀",
+  "projectDesc": "3、可以做成选中文件夹全选文件",
+  "负责": "杨浩",
+  "startTIme": "2022-12-07",
+  "endTime": "2022-12-07",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 47,
+  "projectName": "越秀",
+  "projectDesc": "4、预览改为wps预览",
+  "负责": "杨浩",
+  "startTIme": "2022-12-07",
+  "endTime": "2022-12-07",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 48,
+  "projectName": "大参林",
+  "projectDesc": "合同创建字段增加默认值；合同基本信息签订主体查询增加证件号",
+  "负责": "蔡少波",
+  "startTIme": "2022-12-12",
+  "endTime": "2022-12-13",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 49,
+  "projectName": "大参林",
+  "projectDesc": "合同基本信息新增6个字段（前端控制）",
+  "负责": "蔡少波",
+  "startTIme": "2022-12-13",
+  "endTime": "2022-12-13",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 50,
+  "projectName": "大参林",
+  "projectDesc": "合同预审时，增加关联合同审核标识，当标识被勾选代表该合同已经预审通过，未勾选代表未预审通过。该批次合同被驳回时，仅允许拟制人修改未预审的合同，重新提交后，法务仅需审核未预审的合同即可。",
+  "负责": "蔡少波",
+  "startTIme": null,
+  "endTime": null,
+  "status": "代确认",
+  "jd": null
+}, {
+  "no": 51,
+  "projectName": "大参林",
+  "projectDesc": "合同系统传OA时，法务进行意见审批的时候能够系统自动带上对应的审批人名和员工ID，特殊字段需要处理下。",
+  "负责": "蔡少波",
+  "startTIme": "2022-12-13",
+  "endTime": "2022-12-13",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 52,
+  "projectName": "大参林",
+  "projectDesc": "合同查询中的除用章批准合同可下载外，其他状态合同不可下载。\n且下载版本为PDF版本，需提供WORD下载版及任何状态下合同均可下载。（前端界面）",
+  "负责": "蔡少波",
+  "startTIme": "2022-12-13",
+  "endTime": null,
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 53,
+  "projectName": "大参林",
+  "projectDesc": "合同界面调整  任务分支 feature-dslyy-dev-20221212",
+  "负责": "蔡少波",
+  "startTIme": "2022-12-12",
+  "endTime": "2022-12-23",
+  "status": "暂挂",
+  "jd": "10%"
+}, {
+  "no": 54,
+  "projectName": "大参林",
+  "projectDesc": "合同界面调整 合同基本信息页面",
+  "负责": null,
+  "startTIme": null,
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 55,
+  "projectName": "台新项目",
+  "projectDesc": "子账户管理导出功能",
+  "负责": "罗伟军",
+  "startTIme": "2022-12-27",
+  "endTime": "2022-12-27",
+  "status": "处理中",
+  "jd": "0%"
+}, {
+  "no": 56,
+  "projectName": "智数通",
+  "projectDesc": null,
+  "负责": null,
+  "startTIme": null,
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 57,
+  "projectName": "大参林",
+  "projectDesc": "修改值集的值字段为employId, 在分支0419上",
+  "负责": "蔡少波",
+  "startTIme": "2023-04-20",
+  "endTime": "2023-04-21",
+  "status": "待验证",
+  "jd": "100%"
+}, {
+  "no": 58,
+  "projectName": "datax-ui-v2",
+  "projectDesc": "平台基础设置-> 系统管理-> 岗位管理、用户管理、部门管理、角色管理、字段管理",
+  "负责": "巨敦航",
+  "startTIme": "2023-04-21",
+  "endTime": "2023-04-21",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 59,
+  "projectName": "大参林",
+  "projectDesc": "fix-site-feature-new-ui-修复230419的合并",
+  "负责": "蔡少波",
+  "startTIme": "2023-04-21",
+  "endTime": "2023-04-21",
+  "status": "待验证",
+  "jd": null
+}, {
+  "no": 60,
+  "projectName": "大参林",
+  "projectDesc": "1、商品行基础信息最后位置加上两个字段：备注商品编码、备注商品名称；ext13、ext14\n2、合同基本信息-用章方式区域加上两个字段：签署人、签署人联系方式；\n3、负责人信息区域加上字段：发起部门",
+  "负责": "蔡少波",
+  "startTIme": "2023-04-23",
+  "endTime": "2023-04-23",
+  "status": "处理中",
+  "jd": null
+}, {
+  "no": 61,
+  "projectName": "datax-ui-v2",
+  "projectDesc": "平台基础设置-> 系统监控、任务调度",
+  "负责": "巨敦航",
+  "startTIme": "2023-04-23",
+  "endTime": null,
+  "status": null,
+  "jd": null
+}, {
+  "no": 62,
+  "projectName": "大参林",
+  "projectDesc": "1、合同分类切换后，若提前将商品行展开，则商品行中字段必输性不会刷新",
+  "负责": "蔡少波",
+  "startTIme": "2023-04-25",
+  "endTime": "2023-04-25",
+  "status": "验证通过",
+  "jd": "100%"
+}, {
+  "no": 63,
+  "projectName": "达芬奇-bayze",
+  "projectDesc": "bayze  升级到antd4或者antd5版本， （https://github.com/amber-apm/bayze）",
+  "负责": "巨敦航",
+  "startTIme": "2023-05-06",
+  "endTime": null,
+  "status": "处理中",
+  "jd": null
+}]

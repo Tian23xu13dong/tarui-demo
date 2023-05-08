@@ -15,7 +15,7 @@ const WeekHeader = [
 
 
 const ItemDay = (props) => {
-  const {item, today, year, month} = props
+  const {item, today, month} = props
   return (
     <div className={[
       "inline-block text-center",

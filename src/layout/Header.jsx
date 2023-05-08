@@ -71,7 +71,7 @@ const Header = (props) => {
   }, [])
 
   return (
-    <div className={"" + className.toString() + " w-full bg-amber-50 flex items-center justify-between"}
+    <div className={"" + className.toString() + " w-full flex items-center justify-between"}
          data-tauri-drag-region>
       <span className="font-bold font-serif p-2">{tauriVersion}</span>
       <WinBtn/>
